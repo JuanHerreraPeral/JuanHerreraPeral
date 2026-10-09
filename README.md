@@ -1,16 +1,22 @@
-## Hi there 👋
+Hola, soy Juan Herrera 👋
+🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-<!--
-**JuanHerreraPeral/JuanHerreraPeral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Licenciado en Economía por la Universidad de Málaga.
 
-Here are some ideas to get you started:
+💻 Actualmente orientando mi carrera profesional hacia el desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologías
+Java
+SQL
+MySQL
+XML
+Bases de Datos
+Git y GitHub
+Formación
+CFGS Desarrollo de Aplicaciones Multiplataforma (DAM)
+Licenciatura en Economía
+Objetivo
+Busco mi primera oportunidad profesional como desarrollador junior, aplicando conocimientos de programación, bases de datos y desarrollo de aplicaciones.
+
+Contacto
+📧 herrera.peral@hotmail.es
