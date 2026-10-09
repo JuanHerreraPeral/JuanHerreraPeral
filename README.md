@@ -5,13 +5,16 @@ Hola, soy Juan Herrera 👋
 
 💻 Actualmente orientando mi carrera profesional hacia el desarrollo de software.
 
-Tecnologías
-Java
-SQL
-MySQL
-XML
-Bases de Datos
-Git y GitHub
+🚀 Tecnologías
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 Formación
 CFGS Desarrollo de Aplicaciones Multiplataforma (DAM)
 Licenciatura en Economía
